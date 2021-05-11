@@ -1,0 +1,184 @@
+{
+    "header": [
+        " *   ",
+        " *   文件描述：本文件为网页资源信息",
+        " *   success字段为下载保存成功的资源;failures字段则为下载保存失败的资源URL",
+        " *   success字段为标准树结构，每一层资源父子关系、URL和保存路径清晰明了",
+        " *   本文件仅为记录检测到的网页资源以便于调试，非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq",
+        " *   "
+    ],
+    "success": [
+        {
+            "url": "https://kuagejing.com/",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "https://qiyukf.com/sdk//res/img/sdk/bg_floatMsg2x.png",
+                    "path": "images/bg_floatMsg2x.png"
+                },
+                {
+                    "url": "https://qiyukf.com/sdk//res/img/sdk/bg_floatMsg.png",
+                    "path": "images/bg_floatMsg.png"
+                },
+                {
+                    "url": "https://qiyukf.com/sdk//res/img/sdk/btn-close.png",
+                    "path": "images/btn-close.png"
+                },
+                {
+                    "url": "https://ysf.nosdn.127.net/operation/4602027f7e6a0109ac433863d7d0acdf",
+                    "path": "images/4602027f7e6a0109ac433863d7d0acdf.png"
+                },
+                {
+                    "url": "https://ysf.nosdn.127.net/operation/0e5ee37a71d33e05b74d1a5aa3cdd99a",
+                    "path": "images/0e5ee37a71d33e05b74d1a5aa3cdd99a.png"
+                },
+                {
+                    "url": "https://ysf.nosdn.127.net/operation/997228b687d805f7a5d6244865615ec9",
+                    "path": "images/997228b687d805f7a5d6244865615ec9.png"
+                },
+                {
+                    "url": "https://kuagejing.com/img/banner.f40b99d1.jpg",
+                    "path": "images/banner.f40b99d1.jpeg"
+                },
+                {
+                    "url": "https://kuagejing.com/img/ads.06d4f101.jpg",
+                    "path": "images/ads.06d4f101.jpeg"
+                },
+                {
+                    "url": "https://kuagejing.com/img/phone.4107f8ec.png",
+                    "path": "images/phone.4107f8ec.png"
+                },
+                {
+                    "url": "https://kuagejing.com/img/qrcode-wxmp.50d0329e.jpg",
+                    "path": "images/qrcode-wxmp.50d0329e.jpeg"
+                },
+                {
+                    "url": "https://kuagejing.com/img/o-amazon.11bffa70.png",
+                    "path": "images/o-amazon.11bffa70.png"
+                },
+                {
+                    "url": "https://kuagejing.com/img/o-ebay.ab28f3c3.png",
+                    "path": "images/o-ebay.ab28f3c3.png"
+                },
+                {
+                    "url": "https://kuagejing.com/img/official_account.22d8cf26.png",
+                    "path": "images/official_account.22d8cf26.png"
+                },
+                {
+                    "url": "https://kuagejing.com/logo.jpg",
+                    "path": "images/logo.jpeg"
+                },
+                {
+                    "url": "https://fcn01.qiyukf.net/679fefd9daf45c2372253a1a0d8e9b4f.png",
+                    "path": "images/679fefd9daf45c2372253a1a0d8e9b4f.png"
+                },
+                {
+                    "url": "https://kuagejing.com/img/red-package.d1376624.png",
+                    "path": "images/red-package.d1376624.png"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-4d93f468.d93bc4fb.js",
+                    "path": "js/chunk-4d93f468.d93bc4fb.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-b5530de2.66512b19.js",
+                    "path": "js/chunk-b5530de2.66512b19.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-7a9e7157.02907cf5.js",
+                    "path": "js/chunk-7a9e7157.02907cf5.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-6a3841fd.05022134.js",
+                    "path": "js/chunk-6a3841fd.05022134.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-a050ec70.522e2ecc.js",
+                    "path": "js/chunk-a050ec70.522e2ecc.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-2d1c57d0.298bb3d0.js",
+                    "path": "js/chunk-2d1c57d0.298bb3d0.js"
+                },
+                {
+                    "url": "https://qiyukf.com/script/2ef9f98b3b8c993843ed1d135df659b5.js",
+                    "path": "js/2ef9f98b3b8c993843ed1d135df659b5.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/chunk-vendors.e89b874c.js",
+                    "path": "js/chunk-vendors.e89b874c.js"
+                },
+                {
+                    "url": "https://kuagejing.com/js/app.ae178e32.js",
+                    "path": "js/app.ae178e32.js"
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-vendors.b3056c53.css",
+                    "path": "css/chunk-vendors.b3056c53.css"
+                },
+                {
+                    "url": "https://kuagejing.com/css/app.f9ace705.css",
+                    "path": "css/app.f9ace705.css",
+                    "children": [
+                        {
+                            "url": "https://kuagejing.com/fonts/ionicons.143146fa.woff2",
+                            "path": "fonts/ionicons.143146fa.woff2"
+                        },
+                        {
+                            "url": "https://kuagejing.com/fonts/ionicons.99ac3308.woff",
+                            "path": "fonts/ionicons.99ac3308.woff"
+                        },
+                        {
+                            "url": "https://kuagejing.com/fonts/ionicons.d535a25a.ttf",
+                            "path": "fonts/ionicons.d535a25a.ttf"
+                        },
+                        {
+                            "url": "https://kuagejing.com/img/ionicons.a2c4a261.svg#Ionicons",
+                            "path": "images/ionicons.a2c4a261.svg"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-4d93f468.043c1e41.css",
+                    "path": "css/chunk-4d93f468.043c1e41.css"
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-b5530de2.c18b5cd7.css",
+                    "path": "css/chunk-b5530de2.c18b5cd7.css"
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-7a9e7157.8dc69e37.css",
+                    "path": "css/chunk-7a9e7157.8dc69e37.css"
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-6a3841fd.f4f74e17.css",
+                    "path": "css/chunk-6a3841fd.f4f74e17.css"
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-a050ec70.1b177bc9.css",
+                    "path": "css/chunk-a050ec70.1b177bc9.css"
+                },
+                {
+                    "url": "https://kuagejing.com/css/chunk-2d1c57d0.4450bc8c.css",
+                    "path": "css/chunk-2d1c57d0.4450bc8c.css",
+                    "children": [
+                        {
+                            "url": "https://kuagejing.com/img/step-bg.b3593d29.png",
+                            "path": "images/step-bg.b3593d29.png"
+                        }
+                    ]
+                },
+                {
+                    "url": "https://kuagejing.com/favicon.ico",
+                    "path": "favicon.ico"
+                },
+                {
+                    "url": "https://qiyukf.com/sdk/res/delegate.html?1616143904062",
+                    "path": "delegate.html"
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
