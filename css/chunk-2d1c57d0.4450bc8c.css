@@ -1,10 +1,16 @@
 .banner-container .img-box[data-v-3e8baae8] {
   position: relative;
 }
+.banner-container .img-box[data-v-3e8baae81] {
+  position: relative;
+}
 .banner-container .img-box.cursor[data-v-3e8baae8] {
   cursor: pointer;
 }
 .banner-container .img-box img[data-v-3e8baae8] {
+  width: 100%;
+}
+.banner-container .img-box img[data-v-3e8baae81] {
   width: 100%;
 }
 .banner-container .img-box .service[data-v-3e8baae8] {
